@@ -1,0 +1,14 @@
+C:\Users\Hp\Documents\andusbc\andusbc\bin\Debug\net10.0\andusbc.exe
+C:\Users\Hp\Documents\andusbc\andusbc\bin\Debug\net10.0\andusbc.deps.json
+C:\Users\Hp\Documents\andusbc\andusbc\bin\Debug\net10.0\andusbc.runtimeconfig.json
+C:\Users\Hp\Documents\andusbc\andusbc\bin\Debug\net10.0\andusbc.dll
+C:\Users\Hp\Documents\andusbc\andusbc\bin\Debug\net10.0\andusbc.pdb
+C:\Users\Hp\Documents\andusbc\andusbc\obj\Debug\net10.0\andusbc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Documents\andusbc\andusbc\obj\Debug\net10.0\andusbc.AssemblyInfoInputs.cache
+C:\Users\Hp\Documents\andusbc\andusbc\obj\Debug\net10.0\andusbc.AssemblyInfo.cs
+C:\Users\Hp\Documents\andusbc\andusbc\obj\Debug\net10.0\andusbc.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Documents\andusbc\andusbc\obj\Debug\net10.0\andusbc.dll
+C:\Users\Hp\Documents\andusbc\andusbc\obj\Debug\net10.0\refint\andusbc.dll
+C:\Users\Hp\Documents\andusbc\andusbc\obj\Debug\net10.0\andusbc.pdb
+C:\Users\Hp\Documents\andusbc\andusbc\obj\Debug\net10.0\andusbc.genruntimeconfig.cache
+C:\Users\Hp\Documents\andusbc\andusbc\obj\Debug\net10.0\ref\andusbc.dll
